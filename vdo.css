@@ -1,0 +1,41 @@
+.vdo{
+    /* border: 2px solid red; */
+    width: 100%;
+    height:700px;
+
+}
+.vdo video{
+    position: absolute;
+    width:100%;
+    height:700px;
+    background-color: #141d29;
+}
+.vdo h3{
+    position: absolute;
+    margin-top: 300px;
+    font-size: 34px;
+    color: rgb(221, 216, 216);
+    margin-left: 560px;
+    font-weight: 500;
+    /* font-family: barlow; */
+}
+.vdo h1{
+    position: absolute;
+    margin-top: 330px;
+    font-size: 64px;
+    color: rgb(211, 208, 208);
+    margin-left: 220px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    /* font-family: barlow; */
+}
+.vdo h2{
+    position: absolute;
+    margin-top: 380px;
+    font-size: 64px;
+    color: rgb(211, 208, 208);
+    margin-left: 350px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    /* font-family: barlow; */
+}

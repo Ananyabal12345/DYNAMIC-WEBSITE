@@ -1,0 +1,28 @@
+.searchbar{
+    /* border: 2px solid green; */
+    width:100%;
+    height:210px;
+    background-color: #141d29;
+}
+.searchbar input{
+    position: absolute;
+    padding-right:  530px;
+    padding-left: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 250px;
+    background-color: #19304b;
+    border: none;
+  
+}
+.searchbar p{
+    position: absolute;
+    /* border: 2px solid#19304b; */
+    width:50px; 
+    /* height:50px;  */
+    padding: 19px 30px;
+    margin-left: 960px;
+    margin-top: 49px;
+    background-color:rgb(28, 28, 177) ;
+}

@@ -1,0 +1,68 @@
+#graphic1{
+    /* border:2px solid red; */
+    position: absolute;
+    width:100%;
+    height:271px;
+    background: #141d29;
+    margin-left: -983px;
+    margin-top: 20px;
+    z-index: 40000;
+}
+#graphic1 p{
+    position: absolute;
+    color:rgb(201, 193, 193);
+    margin-top: 43px;
+    margin-left: 50px;
+    font-size: 13px;
+    letter-spacing: 5px;
+}
+
+#graphic1 h3{
+    position: absolute;
+    color:white;
+    margin-top: 110px;
+    margin-left: 50px;
+    font-size: 19px;
+    letter-spacing: 3px;
+    line-height: 30px;
+}
+#graphic1 h4{
+    position: absolute;
+    color:rgb(228, 222, 222);
+    margin-top: 200px;
+    margin-left: 250px;
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+#graphic11{
+    /* border:2px solid green; */
+    width:63%;
+    position: absolute;
+    margin-left: 500px;
+    height:135px;
+    background-color:#142031 ;
+    /* margin-top: 100px; */
+}
+#graphic11 h2{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+#graphic12{
+    position: absolute;
+    /* border: 2px solid yellow; */
+    width:63%;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 135px;
+    height:132px;
+    background-color: #2b3849;;
+}
+#graphic12 button{
+    position: absolute;
+    padding: 17px 50px;
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+    background: #255b8e;
+    border: none;
+}

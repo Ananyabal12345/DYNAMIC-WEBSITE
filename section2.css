@@ -1,0 +1,85 @@
+.section2{
+    /* border: 2px solid red; */
+    /* position: absolute; */
+    width:100%;
+    height:850px;
+    background: linear-gradient(180deg,#070f1d 10%,#11203e 100%);
+    color:white;
+}
+.section2 h2{
+    position: absolute;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    color:grey;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.card1 img,.card2 img,.card3 img,.card4 img,.card5 img{
+    position: absolute;
+    /* position: absolute; */
+    /* border:2px solid; */
+    height:600px;
+    width:250px;
+}
+.card1{
+    position: absolute;
+    /* border:2px solid green; */
+    height:600px;
+    width:250px;
+    margin-top: 130px;
+    margin-left: 50px;
+}
+.card1 p,.card2 p,.card3 p,.card4 p,.card5 p{
+    position: absolute;
+    font-family: barlow,Arial,sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    line-height: 25px;
+    margin-top: 280px;
+   margin-left: 70px;
+}
+.card1:hover,.card2:hover,.card3:hover,.card4:hover,.card5:hover{
+    display: flex;
+    flex-direction: column;
+    width: 252px;
+    height: 605px;
+    cursor: pointer;
+    transition: ease-in-out;
+    /* transform: scale(1.1,1.1); */
+    transform:scaleX(1.2) ;
+    transition: all 1.5s cubic-bezier(.25,1,.5,1);
+}
+
+.card2{
+    position: absolute;
+    /* border:2px solid green; */
+    height:600px;
+    width:250px;
+    margin-top: 130px;
+    margin-left: 302px;
+}
+.card3{
+    position: absolute;
+    /* border:2px solid green; */
+    height:600px;
+    width:250px;
+    margin-top: 130px;
+    margin-left: 552px;
+}
+.card4{
+    position: absolute;
+    /* border:2px solid green; */
+    height:600px;
+    width:250px;
+    margin-top: 130px;
+    margin-left: 805px;
+}
+.card5{
+    position: absolute;
+    /* border:2px solid green; */
+    height:600px;
+    width:250px;
+    margin-top: 130px;
+    margin-left: 1050px;
+}
